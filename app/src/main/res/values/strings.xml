@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Travel Together</string>
+    <string name="facebook_app_id">3197924320301805</string>
+    <string name="fb_login_protocol_scheme">fb392135704785739</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="title_activity_tv__vientianez">tv__vientianez</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

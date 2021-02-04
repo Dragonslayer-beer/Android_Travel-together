@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21235649208",
+    "firebase_url": "https://travel-together-2cpr1.firebaseio.com",
+    "project_id": "travel-together-2cpr1",
+    "storage_bucket": "travel-together-2cpr1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21235649208:android:8314d50be911f72c13424d",
+        "android_client_info": {
+          "package_name": "laos.traveltogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21235649208-vseodjgf9c4v4tuurvbtm5q32fmtfhgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "laos.traveltogether",
+            "certificate_hash": "93dbe55af101d2d8e1d793fb7a22fdc1240327b4"
+          }
+        },
+        {
+          "client_id": "21235649208-c0flce3edg7akcrum568f8bboudnt2mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHxXHGjaq-dXDO5DPefbTURIb3jYn9oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21235649208-c0flce3edg7akcrum568f8bboudnt2mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
